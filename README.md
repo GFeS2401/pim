@@ -145,4 +145,4 @@ while True:
         print("Saindo do programa.")
         break
     else:
-        input("Opção inválida. Pressione Enter para tentar novamente.") 
+        input("Opção inválida. Pressione Enter para tentar novamente.")
